@@ -1,16 +1,18 @@
 Lixeira-Robotica-Sustentavel/
 │
-├── README.md              
-├── Imagens/               
-│   ├── esquema_eletrico_arduino_uno.png  # Novo esquema para Arduino Uno
-│   ├── montagem_real.jpg
+├── README.md                      # Apresentação geral do projeto: objetivos, funcionamento e instruções básicas
+├── LICENSE                        # Licença do projeto (ex: MIT, GPL, CC-BY, etc.)
 │
-├── Codigo_Arduino/
-│   └── lixeira_robotica_uno.ino   # Código ajustado para Arduino Uno
+├── Imagens/                      # Recursos visuais do projeto
+│   ├── esquema_eletrico_arduino_uno.png  # Esquema elétrico adaptado para Arduino Uno
+│   ├── montagem_real.jpg                  # Foto real do projeto montado
 │
-├── Documentacao/
-│   ├── Pre-Projeto_Sedukathon.pdf   
-│   ├── Lixeira_Eletronica_Atualizada.pdf  
-│   ├── Roteiro_Montagem_Arduino_Uno.md  # Novo roteiro para Uno
+├── Codigo_Arduino/               # Códigos-fonte do Arduino
+│   └── lixeira_robotica_uno.ino         # Código otimizado e comentado para Arduino Uno
 │
-└── LICENSE             
+├── Documentacao/                 # Documentos técnicos e de apoio
+│   ├── Pre-Projeto_Sedukathon.pdf        # Documento enviado para o evento/desafio
+│   ├── Lixeira_Eletronica_Atualizada.pdf # Versão final/atualizada do projeto em PDF
+│   ├── Roteiro_Montagem_Arduino_Uno.md   # Instruções passo a passo para montagem com Arduino Uno
+│
+└── .gitignore                    # Arquivos e pastas que não devem ser versionados (opcional, se for um repositório Git)
